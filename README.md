@@ -5,6 +5,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsungpak&layout=compact" />
 </a>
 
+## About Me:
 - 🔭 I’m currently working on DS&A
 - 🌱 I’m currently learning Scheme and C++
 - 👯 I’m looking to collaborate on interesting projects
