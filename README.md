@@ -1,7 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/isaacsungpak?tab=repositories">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacsungpak" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/isaacsungpak?tab=repositories">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsungpak&layout=compact" />
 </a>
 
